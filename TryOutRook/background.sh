@@ -1,5 +1,5 @@
 #!/bin/sh
-GIST_URL='https://gist.githubusercontent.com/joshuacox/30c0b0871622b233195a8bb5229ee5e4/raw/11be34e2fbd1f62cd5fd5b2833fb75cf2f929046/gistfile1.txt'
+GIST_URL='https://gist.githubusercontent.com/alexcpn/b0d4f41671f94708e1535ac7db697dfe/raw/1323d13463de5118cb3950b43ad65e7e926be6df/cloned_rook_gist.txt'
 launch.sh
 date '+%s' > /tmp/launch.sh
 echo 'done' >> /tmp/launch.sh
